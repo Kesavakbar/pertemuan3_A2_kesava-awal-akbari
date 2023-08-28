@@ -1,0 +1,8 @@
+variabel = lokasi memori untuk menyimpan nilai 
+integer = bilangan bulat
+float = pecahan
+string = karakter 
+
+Tipe data pada Python dibagi menjadi dua kelompok
+Variabel, Tipe Data, Operator dan Fungsi Input-Output Python
+
